@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Bienvenido a Progra  2 2022  "+ nombre);
 
         System.out.println("Realizando prueba para Tarea 2");
+        System.out.println("Agregado a GitHub");
     }
 }
