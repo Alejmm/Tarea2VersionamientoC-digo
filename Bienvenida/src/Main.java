@@ -6,5 +6,7 @@ public class Main {
         Scanner entrada = new Scanner(System.in);
         String nombre    = entrada.next();
         System.out.println("Bienvenido a Progra  2 2022  "+ nombre);
+
+        System.out.println("Realizando prueba para Tarea 2");
     }
 }
